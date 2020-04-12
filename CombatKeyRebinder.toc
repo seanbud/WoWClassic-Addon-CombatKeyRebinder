@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: Combat Key Rebinder
+## Notes: This addon swaps the bindings between strafeing and turning movement keys while you are in combat.
+## Author: Snekl-Smoulderweb
+## Version: 0.1
+
+Combat Key Rebinder.lua
